@@ -140,10 +140,6 @@ int main(void)
 }
 ~~~
 
-
-### Result :
-Interfacing a digital output with ARM microcontroller is executed 
-
 ### Output screen shots :
 ## LED ON:
 ![pm 1](https://user-images.githubusercontent.com/94187572/195999989-8d74de40-28d9-44e8-a0c8-932148762ec5.png)
@@ -151,6 +147,8 @@ Interfacing a digital output with ARM microcontroller is executed
 ![pm 2](https://user-images.githubusercontent.com/94187572/196000009-c34cec61-8c4a-4ac1-938d-cf2bc6450fe6.png)
 
 
+### Result :
+Interfacing a digital output with ARM microcontroller is executed 
 
 
 
